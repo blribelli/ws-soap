@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" targetNamespace="http://ws.estoque.caelum.com.br/" xmlns:tns="http://ws.estoque.caelum.com.br/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="GerarRelatorio" type="tns:GerarRelatorio"/>
+
+  <xs:complexType name="GerarRelatorio">
+    <xs:sequence/>
+  </xs:complexType>
+</xs:schema>
+
